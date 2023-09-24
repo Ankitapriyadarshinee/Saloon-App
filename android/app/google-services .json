@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "36749282645",
+    "project_id": "flutter-new-fbf89",
+    "storage_bucket": "flutter-new-fbf89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36749282645:android:d719765f39de69c2efb3dc",
+        "android_client_info": {
+          "package_name": "com.webysis.saloon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36749282645-4hj38vhif7bc6uu3ettvhn48aolmohfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrgROQ4tKU-ES8AJhlASvSexbNMVhHMto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36749282645-4hj38vhif7bc6uu3ettvhn48aolmohfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
